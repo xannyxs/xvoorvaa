@@ -1,7 +1,7 @@
 # Hi there 👋, Xander here!
 
 ## About me
-My name is Xander. I am a Codam Student in Amsterdam and studied as filmmaker before doing full-time coding. All my projects are made from the ground up, from planning and designing all the way solving realtime problems with code. I love general purpose & lowlevel programming languages.
+"My name is Xander, and I am a Codam student currently studying in Amsterdam. I have a background in film-making, but have transitioned to full-time coding. I specialize in creating projects from start to finish, including planning, design, and problem-solving using code. I am particularly passionate about general-purpose and low-level programming languages."
 
 ---
 
@@ -20,18 +20,3 @@ My name is Xander. I am a Codam Student in Amsterdam and studied as filmmaker be
 
 ## Stats
 [![xvoorvaa's GitHub stats](https://github-readme-stats.vercel.app/api?username=xvoorvaa&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-<!--
-**xvoorvaa/xvoorvaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
