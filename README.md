@@ -19,4 +19,4 @@
 ---
 
 ## Stats
-![Xvoorvaa's GitHub stats](https://github-readme-stats.vercel.app/api?username=xvoorvaa&count_private=true)
+![Xvoorvaa's GitHub stats](https://github-readme-stats.vercel.app/api?username=xvoorvaa)
