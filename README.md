@@ -1,7 +1,7 @@
 # Hi there 👋, Xander here!
 
 ## About me
-"My name is Xander, and I am a Codam student currently studying in Amsterdam. I have a background in film-making, but have transitioned to full-time coding. I specialize in creating projects from start to finish, including planning, design, and problem-solving using code. I am particularly passionate about general-purpose and low-level programming languages."
+"My name is Xander, and I am a Codam student currently studying in Amsterdam. I have a background in film-making, but have transitioned to full-time coding. I specialise in creating projects from start to finish, including planning, design, and problem-solving using code. I am particularly passionate about general-purpose and low-level programming languages."
 
 ---
 
